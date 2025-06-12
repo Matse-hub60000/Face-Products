@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FaceGlow | Natural Face Products</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>FaceGlow</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="home">
+  <h2>Welcome to FaceGlow</h2>
+  <p>Your skin deserves the best. Explore our all-natural, handmade face products.</p>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>At FaceGlow, we believe in radiant skin powered by nature. Our products are free from harsh chemicals and made with love.</p>
+</section>
+
+<section id="products">
+  <h2>Our Products</h2>
+  <ul>
+    <li>🌿 Aloe Vera Cleanser - R120</li>
+    <li>🌼 Chamomile Face Cream - R150</li>
+    <li>🌺 Rosewater Toner - R90</li>
+    <li>✨ Vitamin C Serum - R180</li>
+  </ul>
+</section>
+
+<section id="testimonials">
+  <h2>Customer Reviews</h2>
+  <p>"My skin has never felt better! I love the Vitamin C Serum!" - Lerato M.</p>
+  <p>"Affordable and gentle on my skin. Highly recommend." - Nomsa D.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Your Name" required>
+    <input type="email" placeholder="Your Email" required>
+    <textarea placeholder="Your Message"></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+</section>
+
+<footer>
+  <p>&copy; 2025 FaceGlow. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
